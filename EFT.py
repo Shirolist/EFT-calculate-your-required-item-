@@ -20,6 +20,10 @@ except FileNotFoundError:
 root = tk.Tk()
 root.title("Material Tracker")
 
+def insertion_sort:
+    material = material_entry.get()
+    #please blind it until finish.
+            
 # Define a function to update the materials
 def update_material():
     material = material_entry.get()
